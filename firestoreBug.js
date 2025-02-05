@@ -1,0 +1,1 @@
+In a Firebase project, I've encountered an issue where data isn't being written to Firestore consistently.  Sometimes writes succeed, other times they fail silently without any errors reported in the console. I'm using the Firebase JavaScript SDK.
